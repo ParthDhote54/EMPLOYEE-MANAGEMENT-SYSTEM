@@ -18,19 +18,4 @@ This project is about Employee Management System built with **React+Vita** , **J
 * Backend: Spring Boot (Java), REST API
 * Database: MySQL
 
-# Project Structure
-![Screenshot 2025-06-28 023832](https://github.com/user-attachments/assets/d979c97b-7987-4a58-bb61-b73a510fab27)
-# Perview
-**List of all employees displayed on the Home page**
 
-![Screenshot 2025-06-28 022837](https://github.com/user-attachments/assets/d0a2757d-a17c-4449-b8e4-00ec6e0cac68)
-
-
-**Add Employee (with Validation)**
-
-![Screenshot 2025-06-28 023120](https://github.com/user-attachments/assets/9ef64f66-f1f6-4536-8bc4-054111a60a3a)
-
-
-**Update the Exisiting Exployee**
-
-![update](https://github.com/user-attachments/assets/a95ec079-21da-42e6-b527-5dd98e57e15a)
